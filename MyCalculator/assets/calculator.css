@@ -39,12 +39,12 @@
 }
 
 #myCalculator main section.hal {
-    background-color: #de6615;
+    background-color: orange;
     background-image: url(images/bulb_hal.svg);
 }
 
 #myCalculator main section.cfl {
-    background-color: #ef620f;
+    background-color: yellow;
     background-image: url(images/bulb_cfl.svg);
 }
 
